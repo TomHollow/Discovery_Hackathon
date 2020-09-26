@@ -1,1 +1,1 @@
-# Discovery_Hackthon
+# Discovery_Hackathon
