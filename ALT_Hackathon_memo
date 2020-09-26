@@ -62,8 +62,8 @@ public class MainActivity extends AppCompatActivity {
                         Toast toast = Toast.makeText(MainActivity.this,"正しい入力値を入れてください",Toast.LENGTH_LONG);
                         toast.show();
                         ex)日付用のチェックコード
-                     */
                     }
+                    */
                 }
             }
         });
